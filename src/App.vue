@@ -12,6 +12,7 @@ initializeRecorder();
     <img alt="Autoscriber logo" class="logo" src="@/assets/logo.svg" width="125" height="125" />
 
     <div class="wrapper">
+      <h1>Technical Assessment</h1>
       <nav>
         <RouterLink to="/">About</RouterLink>
         <RouterLink to="/records">Records</RouterLink>
